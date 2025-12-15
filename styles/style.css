@@ -69,7 +69,7 @@ nav{
 
 
 /*SUBMENU*/
-.sub-item-content,.sub-item,.content{
+.sub-item-content,.sub-item,#content{
     width: 100%;
     height: 80%;
 }
@@ -106,7 +106,7 @@ main{
     /**/
     background-color: #FAF103;
 }
-.content{
+#content{
     height: 100%;
     width: 100%;
     border: none;
